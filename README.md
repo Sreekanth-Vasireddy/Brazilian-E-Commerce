@@ -16,11 +16,12 @@ olist_sellers_dataset.csv: information about sellers, including seller ID, selle
 
 # 3.Data Analysis
 This dataset can be used to analyse various aspects of Brazilian e-commerce, including:
-·       Customer behaviour and demographics
-·       Popular products and categories
-·       Order fulfillment and shipping times
-·       Payment types and fraud prevention
-·       Seller performance and reputation
+
+· Customer behaviour and demographics
+· Popular products and categories
+· Order fulfillment and shipping times
+· Payment types and fraud prevention
+· Seller performance and reputation
 
 # 4.SQL and Power BI Analysis
 To analyse this dataset, we can use SQL to query the data and Power BI to create visualizations. Here are some examples of analyses that can be performed:
