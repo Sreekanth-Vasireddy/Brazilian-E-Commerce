@@ -1,6 +1,9 @@
 -- This document outlines the objective of the analysis and provides the SQL query used to obtain the desired results. 
 -- The focus of the query is to extract insights from a Brazilian e-commerce dataset.
 
+# Note
+-- This Code setup and Execution performed in Google Bigquery
+
 
 -- 1.Time period of the given data.
 SELECT
